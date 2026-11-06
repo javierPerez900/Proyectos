@@ -1,5 +1,5 @@
 # Proyectos
-1) E-commerce full-stack serverless en AWS:
+1) E-commerce full-stack serverless en AWS:  
   Fronted: https://github.com/javierPerez900/santa-maria-ecommerce  
   Backend:  
   -https://github.com/javierPerez900/santaMaria  
