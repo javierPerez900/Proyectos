@@ -1,6 +1,6 @@
 # Proyectos
 1) E-commerce full-stack serverless en AWS:  
-  > El proyecto completo se compone de tres repositorios:
+El proyecto completo se compone de tres repositorios:
 
 | Repositorio | Contenido |
 |---|---|
